@@ -1,3 +1,3 @@
-A Sample College Website Using HTML & CSS.
+A Very Basic Sample College Website Using HTML & CSS & JavaScript
 
 Link: https://kct-engineering-college.github.io/Example-Website-KCT-/
